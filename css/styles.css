@@ -23,8 +23,8 @@
 .navbar .container {
 	padding-left: 0px;
 	padding-right: 0px;
-	border-top: 2px solid black;
-	border-bottom: 2px solid black;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
 	margin: 0;
 	width: 100%;
 	max-width: 100%
@@ -41,6 +41,7 @@
 a.navbar-brand {
 	font-size: 2rem;
 	font-weight: bold;
+	font-family: 'Comic Sans MS', Comic Sans, cursive;
 }
 
 #mainContent section {
@@ -52,10 +53,12 @@ h1 {
 	font-weight: bold;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	font-family: 'Comic Sans MS', Comic Sans, cursive;
 }
 
 h2 {
 	padding-top: 5px;
 	font-size: 1.4rem;
 	font-weight: bold;
+	font-family: 'Comic Sans MS', Comic Sans, cursive;
 }
