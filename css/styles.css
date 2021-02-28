@@ -5,7 +5,7 @@
 }
 
 .bg-light {
-  background-color: #d8d9da !important;
+  background-color: #A2A2A2 !important;
 }
 
 .navbar {
@@ -13,7 +13,7 @@
 }
 
 .navbar ul {
-	background-color: #fff;
+	background-color: white;
 }
 
 .navbar ul li {
@@ -41,11 +41,12 @@
 a.navbar-brand {
 	font-size: 2rem;
 	font-weight: bold;
-	font-family: 'Comic Sans MS', Comic Sans, cursive;
+	color: black;
+	font-family: 'Comic Sans MS', Comic Sans, normal;
 }
 
 #mainContent section {
-	background-color: #d8d9da;
+	background-color: #A2A2A2;
 }
 
 h1 {
@@ -53,12 +54,14 @@ h1 {
 	font-weight: bold;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	font-family: 'Comic Sans MS', Comic Sans, cursive;
+	color: black;
+	font-family: 'Comic Sans MS', Comic Sans, normal;
 }
 
 h2 {
 	padding-top: 5px;
 	font-size: 1.4rem;
 	font-weight: bold;
+	color: black;
 	font-family: 'Comic Sans MS', Comic Sans, cursive;
 }
